@@ -1,1 +1,2 @@
 # Assignment6
+This Site is based on Concept Called BootStrap.This site contains Toogle Button ,and the javascript of toggle Button is imported in the file and the tooltip is used,the javascript of tooltip is imported in this file.Images are used by the method cm-md- .and the task part was done by using predefined classes and by table format and in that checkbox button is used and the buttons are used and on that button the tooltip is used.
